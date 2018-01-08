@@ -1,7 +1,7 @@
 # ASP.NET Core Angular REST-API<br>
-Using postman to test the api
+# Using Postman to test the api.
 
-# To Create API Backend Run<br>
+# 1. To Create API Backend Run<br>
 $ Demo-ASP-Angular/>dotnet new webapi -o backend.api -n backend.api
 
 To Run The App
@@ -15,7 +15,7 @@ To Change the Environment Run<br>
 $ $env:ASPNETCORE_ENVIRONMENT="Development"<br>
 $ export ASPNETCORE_ENVIRONMENT=Development (Works for Me!)
 
-# To Create API Frontend<br>
+# 2. To Create API Frontend<br>
 In the same dir as the backend.api
 
 $ ng new frontend OR ng new frontend --style=scss --routing
