@@ -1,12 +1,12 @@
-# ASP.NET Core Angular REST-API<br>
+# ASP.NET Core Angular REST-API
 # Using Postman to test the api.
 
 # 1. To Create API Backend Run<br>
 $ Demo-ASP-Angular/>dotnet new webapi -o backend.api -n backend.api
 
-To Run The App
-$ dotnet run
-Notic The App is Running in prod mode!
+To Run The App<br>
+$ dotnet run<br>
+Note the App is Running in prod mode!
 
 To Check the Environment Run<br>
 $ $env:ASPNETCORE_ENVIRONMENT
